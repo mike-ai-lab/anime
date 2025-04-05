@@ -97,7 +97,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'FUTURE\nIS NOW',
+			text: 'Arts\nAl Arid Contracting Est.',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
